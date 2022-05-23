@@ -80,7 +80,7 @@ public class K_Means {
         double[] minDis = new double[k]; // 点到当前所有聚类中心的最小距离
         Arrays.fill(minDis, Double.MAX_VALUE);
         _clusterCenterId[0] = random.nextInt(n);
-        preClusterCenterId = _clusterCenterId[0];
+        preClusterCenterId = _clusterCenterId[0];//
 
         while(_clusterCenterAmount < k) {
             for(int i = 0; i < n; i++) {
