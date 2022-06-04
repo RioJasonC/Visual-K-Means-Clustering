@@ -7,6 +7,10 @@ package lib.math;
 public class _2D {
     public double x, y;
 
+    public _2D() {
+
+    }
+
     public _2D(double _x, double _y) {
         this.x = _x;
         this.y = _y;
@@ -31,6 +35,15 @@ public class _2D {
     }
 
     /**
+     * 坐标同时除以某个数
+     * @param p
+     * @return _2D
+     */
+    public _2D div(double p) {
+        return new _2D(this.x / p, this.y / p);
+    }
+
+    /**
      * 获得与某个点的距离
      * @return double
      */
@@ -39,10 +52,9 @@ public class _2D {
     }
 
     /**
-     * 获取与某个点的距离的平方
-     * @return double
+     * 点乘
      */
-    public double getDis_Square(_2D p) {
-        return Math.pow(this.x - p.x, 2) + Math.pow(this.y - p.y, 2);
+    public double getDotMul(_2D p) {
+        return this.x * p.x + this.y * p.y;
     }
 }

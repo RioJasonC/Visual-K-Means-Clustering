@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Visual_K-Means_Clustering:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51bd1d74-79c0-4ddc-901d-0c476dabdfb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/K_Means.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lib/K_means/K_Means.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lib/K_means/K_Means.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lib/K_means/K_Means.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lib/math/_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lib/math/_2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Visual_K-means_Clustering\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,10 +33,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="29Y0gV6MxidkxN3dCEvLWF8yCdB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,15 +51,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/IJ WorkSpace/Visual_K-means_Clustering",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32221064",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IJ WorkSpace\Visual_K-means_Clustering\src\main\resources\static" />
+      <recent name="F:\IJ WorkSpace\Visual_K-means_Clustering\src\main\resources\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Visual K-Means Clustering" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="Visual_K-Means_Clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visual K-Means Clustering" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
@@ -55,7 +103,33 @@
       <option name="presentableId" value="Default" />
       <updated>1653274822791</updated>
       <workItem from="1653274825215" duration="8160000" />
-      <workItem from="1653294184204" duration="1595000" />
+      <workItem from="1653294184204" duration="7439000" />
+      <workItem from="1653303385775" duration="462000" />
+      <workItem from="1653310267748" duration="31000" />
+      <workItem from="1653381619615" duration="1934000" />
+      <workItem from="1653383758695" duration="1930000" />
+      <workItem from="1653396983458" duration="2939000" />
+      <workItem from="1653399961710" duration="58000" />
+      <workItem from="1653400031033" duration="2092000" />
+      <workItem from="1653466659749" duration="8884000" />
+      <workItem from="1653539495384" duration="4061000" />
+      <workItem from="1653563677606" duration="2156000" />
+      <workItem from="1653574645941" duration="1463000" />
+      <workItem from="1653792487422" duration="42000" />
+      <workItem from="1653795420122" duration="236000" />
+      <workItem from="1653962549496" duration="6736000" />
+      <workItem from="1654220478415" duration="6512000" />
+      <workItem from="1654308046443" duration="376000" />
+      <workItem from="1654308465037" duration="17000" />
+      <workItem from="1654308492537" duration="3674000" />
+      <workItem from="1654312205992" duration="2573000" />
+      <workItem from="1654317040560" duration="7578000" />
+      <workItem from="1654328234365" duration="3439000" />
+      <workItem from="1654331716262" duration="3810000" />
+      <workItem from="1654335709211" duration="1181000" />
+      <workItem from="1654338074680" duration="478000" />
+      <workItem from="1654338685453" duration="103000" />
+      <workItem from="1654340094142" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1653294419480</created>
@@ -71,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653295767979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1653295799093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653295799093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +161,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pointIds" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
