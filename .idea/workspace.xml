@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51bd1d74-79c0-4ddc-901d-0c476dabdfb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lib/K_Means.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lib/K_means/K_Means.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lib/math/_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lib/math/_2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +124,7 @@
       <workItem from="1654335709211" duration="1181000" />
       <workItem from="1654338074680" duration="478000" />
       <workItem from="1654338685453" duration="103000" />
-      <workItem from="1654340094142" duration="643000" />
+      <workItem from="1654340094142" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1653294419480</created>
@@ -152,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653295799093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Main">
+      <created>1654340815469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654340815469</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +162,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
